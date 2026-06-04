@@ -1,4 +1,4 @@
-# 🤖 ML Classification Suite
+#  ML Classification Suite
 
 A collection of three supervised learning experiments exploring Gaussian Naïve Bayes and Decision Tree classifiers across real-world datasets — income prediction, car evaluation, and diabetes diagnosis.
 
